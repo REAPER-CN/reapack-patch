@@ -1,4 +1,4 @@
--- @description Copy active take envelopes
+-- @description Copy active take envelopes-REAPERCN
 -- @version 1.0
 -- @author me2beats
 -- @changelog

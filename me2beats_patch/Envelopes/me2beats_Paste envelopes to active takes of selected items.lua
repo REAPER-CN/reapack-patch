@@ -1,4 +1,4 @@
--- @description Paste envelopes to active takes of selected items
+-- @description Paste envelopes to active takes of selected items-REAPERCN
 -- @version 1.0
 -- @author me2beats
 -- @changelog
