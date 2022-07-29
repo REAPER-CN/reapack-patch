@@ -10,6 +10,16 @@
 4. 定期和作者原版合并代码，如果原作者还有更新。
 5. 若原作者已经把 bug 修复，则本仓库遗弃已修复的脚本。
 
+## 打过补丁的脚本目录
+
+遵循原脚本目录，为原作者文件夹加上 *_patch*，如：
+
+```
+├── me2beats_patch
+│   └── Envelopes
+│       └── me2beats_Paste envelopes to active takes of selected items.lua
+```
+
 ## 版权说明
 
 一切代码归属权属原作者。
