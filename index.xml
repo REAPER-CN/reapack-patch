@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="reapack-patch for REAPERCN" commit="723c5a5aeaa11b4d7cac3f8ba664981ccc5ee7b6">
+<index version="1" name="reapack-patch for REAPERCN" commit="152ab1503be79e1ccc48febd233d1a72e7bc7bfc">
   <category name="me2beats_patch/Envelopes">
-    <reapack name="me2beats_Copy active take envelopes.lua" type="script" desc="Copy active take envelopes-REAPERCN">
-      <version name="1.0" author="me2beats" time="2022-07-29T11:55:41Z">
-        <changelog><![CDATA[+ init]]></changelog>
-        <source main="main">https://github.com/REAPER-CN/reapack-patch/raw/df0d0d799bb3d52a76a33f15d02ab688165551e4/me2beats_patch/Envelopes/me2beats_Copy%20active%20take%20envelopes.lua</source>
-      </version>
-    </reapack>
     <reapack name="me2beats_Paste envelopes to active takes of selected items.lua" type="script" desc="Paste envelopes to active takes of selected items-REAPERCN">
       <version name="1.0" author="me2beats" time="2022-07-29T11:55:41Z">
         <changelog><![CDATA[+ init]]></changelog>
