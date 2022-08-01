@@ -1,4 +1,4 @@
--- @description ReaNamer (track-item-region renaming utility)
+-- @description ReaNamer (track-item-region renaming utility)-REAPERCN
 -- @author amagalma & gianfini
 -- @version 1.32
 -- @changelog - lexaproductions: exclude adjacent regions to time selection
