@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="reapack-patch for REAPERCN" commit="152ab1503be79e1ccc48febd233d1a72e7bc7bfc">
+<index version="1" name="reapack-patch for REAPERCN" commit="85a053ead0ab7efc1aa27a7fc805a5ed072bcb00">
   <category name="me2beats_patch/Envelopes">
     <reapack name="me2beats_Paste envelopes to active takes of selected items.lua" type="script" desc="Paste envelopes to active takes of selected items-REAPERCN">
       <version name="1.0" author="me2beats" time="2022-07-29T11:55:41Z">
         <changelog><![CDATA[+ init]]></changelog>
         <source main="main">https://github.com/REAPER-CN/reapack-patch/raw/df0d0d799bb3d52a76a33f15d02ab688165551e4/me2beats_patch/Envelopes/me2beats_Paste%20envelopes%20to%20active%20takes%20of%20selected%20items.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="ReaTeam_patch/Various">
+    <reapack name="amagalma_gianfini_ReaNamer (track-item-region renaming utility).lua" type="script" desc="ReaNamer (track-item-region renaming utility)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 Utility to manipulate track, item or region names\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Manipulate track/item/region names (prefix/suffix, trim start/end, keep, clear, uppercase/lowercase, swap case/capitalize/titlecase, replace, strip leading & trailing whitespaces).\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Mode (tracks or items) is automatically chosen when the script starts. Then to change mode click on appropriate button.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab When satisfied with the modifications (which can be previewed in the list), COMMIT button writes the values to tracks/items/regions and creates an Undo point in Reaper's Undo History\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab UTF-8 support for case-changing functions\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab SWS / S&M extension is required\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Key Shortcuts: Esc to close script Ctrl+Enter to Commit Ctrl+T for Tracks mode Ctrl+R for Regions mode Ctrl+I for Items mode Ctrl+Z for Undo Ctrl+Shift+Z for Redo Alt+A for swAp case Alt+C for Clear Alt+E for trim End Alt+K for Keep Alt+L for Lowercase Alt+N for Number Alt+P for Prefix Alt+R for Replace Alt+S for trim Start Alt+T for Titlecase Alt+U for Uppercase Alt+W for strip Whitespaces Alt+X for suffiX Alt+Z for capitaliZe\par}
+}
+]]></description>
+        <link rel="website">http://forum.cockos.com/showthread.php?t=190534</link>
+        <link rel="website">http://forum.cockos.com/showthread.php?t=194414</link>
+        <link rel="donation">https://www.paypal.me/amagalma</link>
+      </metadata>
+      <version name="1.32" author="amagalma &amp; gianfini" time="2022-08-01T09:42:44Z">
+        <changelog><![CDATA[- lexaproductions: exclude adjacent regions to time selection]]></changelog>
+        <source main="main">https://github.com/REAPER-CN/reapack-patch/raw/85a053ead0ab7efc1aa27a7fc805a5ed072bcb00/ReaTeam_patch/Various/amagalma_gianfini_ReaNamer%20(track-item-region%20renaming%20utility).lua</source>
+        <source file="amagalma_ReaNamer Replace Help.lua">https://github.com/REAPER-CN/reapack-patch/raw/85a053ead0ab7efc1aa27a7fc805a5ed072bcb00/ReaTeam_patch/Various/amagalma_ReaNamer%20Replace%20Help.lua</source>
+        <source file="amagalma_ReaNamer utf8data.lua">https://github.com/REAPER-CN/reapack-patch/raw/85a053ead0ab7efc1aa27a7fc805a5ed072bcb00/ReaTeam_patch/Various/amagalma_ReaNamer%20utf8data.lua</source>
       </version>
     </reapack>
   </category>
