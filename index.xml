@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="reapack-patch for REAPERCN" commit="85a053ead0ab7efc1aa27a7fc805a5ed072bcb00">
+<index version="1" name="reapack-patch for REAPERCN" commit="e522a4da93eef1c1e8f6ac59242d67c3b7430bdd">
   <category name="me2beats_patch/Envelopes">
     <reapack name="me2beats_Paste envelopes to active takes of selected items.lua" type="script" desc="Paste envelopes to active takes of selected items-REAPERCN">
       <version name="1.0" author="me2beats" time="2022-07-29T11:55:41Z">
@@ -9,7 +9,7 @@
     </reapack>
   </category>
   <category name="ReaTeam_patch/Various">
-    <reapack name="amagalma_gianfini_ReaNamer (track-item-region renaming utility).lua" type="script" desc="ReaNamer (track-item-region renaming utility)">
+    <reapack name="amagalma_gianfini_ReaNamer (track-item-region renaming utility).lua" type="script" desc="ReaNamer (track-item-region renaming utility)-REAPERCN">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -30,9 +30,9 @@
       </metadata>
       <version name="1.32" author="amagalma &amp; gianfini" time="2022-08-01T09:42:44Z">
         <changelog><![CDATA[- lexaproductions: exclude adjacent regions to time selection]]></changelog>
-        <source main="main">https://github.com/REAPER-CN/reapack-patch/raw/85a053ead0ab7efc1aa27a7fc805a5ed072bcb00/ReaTeam_patch/Various/amagalma_gianfini_ReaNamer%20(track-item-region%20renaming%20utility).lua</source>
-        <source file="amagalma_ReaNamer Replace Help.lua">https://github.com/REAPER-CN/reapack-patch/raw/85a053ead0ab7efc1aa27a7fc805a5ed072bcb00/ReaTeam_patch/Various/amagalma_ReaNamer%20Replace%20Help.lua</source>
-        <source file="amagalma_ReaNamer utf8data.lua">https://github.com/REAPER-CN/reapack-patch/raw/85a053ead0ab7efc1aa27a7fc805a5ed072bcb00/ReaTeam_patch/Various/amagalma_ReaNamer%20utf8data.lua</source>
+        <source main="main">https://github.com/REAPER-CN/reapack-patch/raw/e522a4da93eef1c1e8f6ac59242d67c3b7430bdd/ReaTeam_patch/Various/amagalma_gianfini_ReaNamer%20(track-item-region%20renaming%20utility).lua</source>
+        <source file="amagalma_ReaNamer Replace Help.lua">https://github.com/REAPER-CN/reapack-patch/raw/e522a4da93eef1c1e8f6ac59242d67c3b7430bdd/ReaTeam_patch/Various/amagalma_ReaNamer%20Replace%20Help.lua</source>
+        <source file="amagalma_ReaNamer utf8data.lua">https://github.com/REAPER-CN/reapack-patch/raw/e522a4da93eef1c1e8f6ac59242d67c3b7430bdd/ReaTeam_patch/Various/amagalma_ReaNamer%20utf8data.lua</source>
       </version>
     </reapack>
   </category>
