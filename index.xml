@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="reapack-patch for REAPERCN" commit="e522a4da93eef1c1e8f6ac59242d67c3b7430bdd">
+<index version="1" name="reapack-patch for REAPERCN" commit="632a2afa9928c9bb18788134bd694de0034cef57">
+  <category name="EUGEN27771_patch/Various/FXRack">
+    <reapack name="gen_FXRack.lua" type="script" desc="FXRack-REAPERCN">
+      <metadata>
+        <link rel="website">http://forum.cockos.com/member.php?u=50462</link>
+      </metadata>
+      <version name="1.01" author="EUGEN27771" time="2022-08-01T10:03:55Z">
+        <source main="main">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/gen_FXRack.lua</source>
+        <source file="Images/BG_PatchWork.png">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Images/BG_PatchWork.png</source>
+        <source file="Images/button_phase_22x22x2.png">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Images/button_phase_22x22x2.png</source>
+        <source file="Images/button_power_17x18x2.png">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Images/button_power_17x18x2.png</source>
+        <source file="Images/button_solo_22x22x2.png">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Images/button_solo_22x22x2.png</source>
+        <source file="Images/button_summing_26x17x2.png">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Images/button_summing_26x17x2.png</source>
+        <source file="Images/knob_pan_28x28x127.png">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Images/knob_pan_28x28x127.png</source>
+        <source file="Images/knob_vol_28x28x127.png">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Images/knob_vol_28x28x127.png</source>
+        <source file="JSUtilities/(Mix)RackMixer">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/JSUtilities/(Mix)RackMixer</source>
+        <source file="JSUtilities/(Split)RackSplitter">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/JSUtilities/(Split)RackSplitter</source>
+        <source file="Modules/FXChain.lua">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Modules/FXChain.lua</source>
+        <source file="Modules/File.lua">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Modules/File.lua</source>
+        <source file="Modules/Presets.lua">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Modules/Presets.lua</source>
+        <source file="Modules/RackSplitMix.lua">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Modules/RackSplitMix.lua</source>
+        <source file="Modules/SimpleControls.lua">https://github.com/REAPER-CN/reapack-patch/raw/632a2afa9928c9bb18788134bd694de0034cef57/EUGEN27771_patch/Various/FXRack/Modules/SimpleControls.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="me2beats_patch/Envelopes">
     <reapack name="me2beats_Paste envelopes to active takes of selected items.lua" type="script" desc="Paste envelopes to active takes of selected items-REAPERCN">
       <version name="1.0" author="me2beats" time="2022-07-29T11:55:41Z">
